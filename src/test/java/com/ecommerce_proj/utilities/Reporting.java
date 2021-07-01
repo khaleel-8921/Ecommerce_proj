@@ -24,7 +24,7 @@ public class Reporting extends TestListenerAdapter {
 		extent = new ExtentReports();
 		extent.attachReporter(htmlreporter);
 		extent.setSystemInfo("Host name","local host");
-		extent.set
+		
 		
 		
 		
